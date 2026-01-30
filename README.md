@@ -1,6 +1,9 @@
 ## Brain Development Imaging Lab
+<p align="center">
+  <img src="https://github.com/KBRI-BDIL/KBRI-BDIL/blob/main/BDIL1.png?raw=true" alt="BDIL Logo" width="400">
+</p>
 
-
+<br/>
 
 ### 🔎 Research Interests
 The primary focus is how **mother-child interaction** reflects their relationship at the human brain level.
